@@ -1,4 +1,4 @@
-# China Social Media Strategy Skill
+# China Social Media Strategy Skill （V0.1)
 
 ## Overview
 
